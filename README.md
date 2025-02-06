@@ -1,4 +1,4 @@
 # Programacion_software
-Firts Changes
+firts Changes.
 second change
 Keep learning ...
